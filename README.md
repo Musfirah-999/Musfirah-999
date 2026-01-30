@@ -19,4 +19,6 @@ Advanced DSA
 Full Stack Web development
 
 ## 📫 Connect with Me
+- Email: zainabmusfirah.00@gmail.com
 - GitHub: [github.com/Musfirah-999](https://github.com/Musfirah-999)
+  

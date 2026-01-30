@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Musfirah Zainab</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Musfirah-999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science student
+- 🎓 Computer Science student  
 - 💡 Strong interest in **Object-Oriented Programming & Data Structures**
 - 🔭 Working on academic and personal development projects
-- 🌱 Learning to write **clean, readable, and maintainable code**
+- 🌱 Focused on writing **clean, maintainable, and scalable code**
 
 ---
 
@@ -30,12 +34,23 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Musfirah-999&show_icons=true&theme=dark"/>
-</p>
+## 🌱 Currently Learning
+- 🔹 **Azure Cloud Services** for cloud deployments  
+- 🔹 **React** to complement my Angular skills  
+- 🔹 **Microservices Architecture** with .NET Core  
+- 🔹 **Advanced SQL Server optimization techniques**
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/Musfirah-999
+## 📫 Contact Me
+<p align="left">
+  <a href="mailto:zainanmusfirah.00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Musfirah-999">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hafiza-musfirah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>

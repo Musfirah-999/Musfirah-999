@@ -15,8 +15,8 @@
 **OOP & DSA Practice** – Semester-based implementations  
 
 ## 🌱 Currently Learning
-Advanced DSA
-Full Stack Web development
+- Advanced DSA
+- Full Stack Web development
 
 ## 📫 Connect with Me
 - Email: zainabmusfirah.00@gmail.com

@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musfirah Zainab</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Musfirah-999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -15,14 +11,16 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+## 🔧 Tech Stack
+
+### Backend & Frameworks
+C# • .NET • ASP.NET • SQL Server  
+
+### Frontend & Web
+React • HTML5 • CSS3 • JavaScript • WinForms  
+
+### Tools & Practices
+Git • GitHub  
 
 ---
 
@@ -35,10 +33,10 @@
 ---
 
 ## 🌱 Currently Learning
-- 🔹 **Azure Cloud Services** for cloud deployments  
-- 🔹 **React** to complement my Angular skills  
-- 🔹 **Microservices Architecture** with .NET Core  
-- 🔹 **Advanced SQL Server optimization techniques**
+- 🔹 Azure Cloud Services for cloud deployments  
+- 🔹 React to complement my Angular skills  
+- 🔹 Microservices Architecture with .NET Core  
+- 🔹 Advanced SQL Server optimization techniques  
 
 ---
 
@@ -53,4 +51,10 @@
   <a href="https://www.linkedin.com/in/hafiza-musfirah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Musfirah-999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>

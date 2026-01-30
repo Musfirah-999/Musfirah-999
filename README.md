@@ -4,14 +4,14 @@
 💻 Passionate about software development and problem-solving  
 
 ## 🛠️ Skills
-**Languages:** C#, Python, C++
-**Core Concepts:** OOP, Data Structures & Algorithms, Database
-**Web:** HTML, CSS, Javascript, Reactjs
-**Databases:** SQL 
+- **Languages:** C#, Python, C++
+- **Core Concepts:** OOP, Data Structures & Algorithms, Database
+- **Web:** HTML, CSS, Javascript, Reactjs
+- **Databases:** SQL 
 
 ## 📂 Projects
-**Faculty Management System** – C# based academic management system  
-**Question Paper Generator** – Automated paper generation project  
+- **Faculty Management System** – C# based academic management system  
+- **Question Paper Generator** – Automated paper generation project  
 **OOP & DSA Practice** – Semester-based implementations  
 
 ## 🌱 Currently Learning

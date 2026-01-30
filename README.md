@@ -12,7 +12,7 @@
 ## 📂 Projects
 - **Faculty Management System** – C# based academic management system  
 - **Question Paper Generator** – Automated paper generation project  
-**OOP & DSA Practice** – Semester-based implementations  
+- **OOP & DSA Practice** – Semester-based implementations  
 
 ## 🌱 Currently Learning
 - Advanced DSA

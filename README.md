@@ -13,13 +13,13 @@
 
 ## 🔧 Tech Stack
 
-### Backend & Frameworks
+### 🔹 Backend & Frameworks
 C# • .NET • ASP.NET • SQL Server  
 
-### Frontend & Web
+### 🔹 Frontend & Web
 React • HTML5 • CSS3 • JavaScript • WinForms  
 
-### Tools & Practices
+### 🔹 Tools & Practices
 Git • GitHub  
 
 ---
@@ -33,10 +33,10 @@ Git • GitHub
 ---
 
 ## 🌱 Currently Learning
-- 🔹 Azure Cloud Services for cloud deployments  
-- 🔹 React to complement my Angular skills  
-- 🔹 Microservices Architecture with .NET Core  
-- 🔹 Advanced SQL Server optimization techniques  
+- 🔹 **Azure Cloud Services** for cloud deployments  
+- 🔹 **React** to complement my Angular skills  
+- 🔹 **Microservices Architecture** with .NET Core  
+- 🔹 **Advanced SQL Server optimization techniques**
 
 ---
 

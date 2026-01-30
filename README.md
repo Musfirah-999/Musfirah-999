@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Musfirah Zainab
 
-<!--
-**Musfirah-999/Musfirah-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about software development and problem-solving  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+**Languages:** C#, Python, C++
+**Core Concepts:** OOP, Data Structures & Algorithms, Database
+**Web:** HTML, CSS, Javascript, Reactjs
+**Databases:** SQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+**Faculty Management System** – C# based academic management system  
+**Question Paper Generator** – Automated paper generation project  
+**OOP & DSA Practice** – Semester-based implementations  
+
+## 🌱 Currently Learning
+Advanced DSA
+Full Stack Web development
+
+## 📫 Connect with Me
+- GitHub: [github.com/Musfirah-999](https://github.com/Musfirah-999)

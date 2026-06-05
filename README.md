@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Musfirah Zainab</h1>
+<h1 align="center">Hi , I'm Musfirah Zainab</h1>
 <h3 align="center">Backend Developer | Computer Science Student</h3>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 - 🎓 **BS Computer Science** at UET (CGPA: 3.7/4.0) — Expected 2028  
 - 💡 Strong foundation in **OOP, Data Structures & Algorithms, MVC Architecture**  
 - 🔭 Built production-ready backend systems with **Python, FastAPI, C#, Node.js**  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 ### Languages
 <p align="left">
@@ -62,7 +62,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
@@ -73,11 +73,11 @@
 | **Question Paper Generator** | HTML, CSS, JS | Dynamic random question paper generation from question bank |
 | **Forks & Fiction Restaurant** | HTML, CSS, JS | Responsive website, real-time table booking, team Git workflow |
 
-> ✅ All projects include full CRUD, database integration, and clean UI/backend logic.
+
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - 🔹 **Microservices Architecture** with .NET Core  
 - 🔹 **React.js** for advanced frontend integration  
 - 🔹 **Azure Cloud Services** for deployment  
@@ -85,7 +85,7 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 <p align="left">
   <a href="mailto:musfirahzainab01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -100,4 +100,3 @@
 
 ---
 
-⭐️ From **Musfirah Zainab** — Backend Developer | UET CS '28

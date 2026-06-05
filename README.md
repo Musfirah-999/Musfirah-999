@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musfirah Zainab</h1>
+<img width="1033" height="510" alt="image" src="https://github.com/user-attachments/assets/1e8439f3-ac0b-4c57-87ab-a928463343f8" /><h1 align="center">Hi 👋, I'm Musfirah Zainab</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
 ---
@@ -53,50 +53,50 @@
 ---
 
 ## 📌 Featured Projects
-🔹 Distributed Deadlock Detector
+-🔹 Distributed Deadlock Detector
 Built with Python and FastAPI
 Developed APIs for process communication and resource allocation tracking
 Implemented distributed deadlock detection logic and circular wait detection
 Simulated coordination between distributed processes
-🔹 Hardware Store Management System
+-🔹 Hardware Store Management System
 C#, WinForms, SQL Server
 Inventory, billing, employee management, and reporting
 Role-based access control and CRUD operations
-🔹 Pharmacy Management System
+-🔹 Pharmacy Management System
 C#, WinForms, SQL Server
 Inventory management, sales, expiry tracking, and automated billing
 Multi-role authentication and authorization
-🔹 Klondike Solitaire Card Game
+-🔹 Klondike Solitaire Card Game
 JavaScript, HTML5, CSS3
 Custom Stack, Queue, and LinkedList implementations
 Undo/Redo, Hint System, Scoring, Auto-Move, and Timer
-🔹 Question Paper Generator
+-🔹 Question Paper Generator
 Dynamic question paper generation from question banks
 Randomized paper creation logic
 Responsive UI using Vanilla JavaScript
-🔹 Forks & Fiction – Restaurant Website
+-🔹 Forks & Fiction – Restaurant Website
 Responsive restaurant website
 Table booking functionality
 Team collaboration using Git and GitHub
 
 ---
 ## 🏆 Core Competencies
-Backend Development
-REST API Development
-Database Design
-Object-Oriented Programming
-Data Structures & Algorithms
-Distributed Systems
-MVC Architecture
-System Design Fundamentals
+-🔹Backend Development
+-🔹REST API Development
+-🔹Database Design
+-🔹Object-Oriented Programming
+-🔹Data Structures & Algorithms
+-🔹Distributed Systems
+-🔹MVC Architecture
+-🔹System Design Fundamentals
 ---
 
 ## 🌱 Currently Learning
-🔹 Advanced Backend Development
-🔹 System Design Fundamentals
-🔹 PostgreSQL Optimization
-🔹 Scalable API Development
-🔹 Modern Software Architecture
+-🔹 Advanced Backend Development
+-🔹 System Design Fundamentals
+-🔹 PostgreSQL Optimization
+-🔹 Scalable API Development
+-🔹 Modern Software Architecture
 ---
 
 ## 📫 Contact Me

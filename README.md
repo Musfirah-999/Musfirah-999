@@ -4,10 +4,11 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science student  
-- 💡 Strong interest in **Object-Oriented Programming & Data Structures**
-- 🔭 Working on academic and personal development projects
-- 🌱 Focused on writing **clean, maintainable, and scalable code**
+🎓 Computer Science student at UET Lahore (CGPA: 3.7/4.0)
+💡 Passionate Backend Developer with strong foundations in OOP, DSA, and Software Architecture
+🔭 Building full-stack, backend, and desktop applications using Python, FastAPI, C#, .NET, and JavaScript
+🌱 Focused on writing clean, maintainable, and scalable code
+🚀 Interested in Backend Development, Distributed Systems, Databases, and System Design
 
 ---
 
@@ -51,20 +52,51 @@
 
 ---
 
-## 📌 Projects
-- **Faculty Management System** – C# based academic management system  
-- **Question Paper Generator** – Automated exam paper generation  
-- **DSA Practice** – Stacks, queues, searching & sorting algorithms  
-- **Web Development Projects** – Responsive layouts using HTML & CSS  
+## 📌 Featured Projects
+🔹 Distributed Deadlock Detector
+Built with Python and FastAPI
+Developed APIs for process communication and resource allocation tracking
+Implemented distributed deadlock detection logic and circular wait detection
+Simulated coordination between distributed processes
+🔹 Hardware Store Management System
+C#, WinForms, SQL Server
+Inventory, billing, employee management, and reporting
+Role-based access control and CRUD operations
+🔹 Pharmacy Management System
+C#, WinForms, SQL Server
+Inventory management, sales, expiry tracking, and automated billing
+Multi-role authentication and authorization
+🔹 Klondike Solitaire Card Game
+JavaScript, HTML5, CSS3
+Custom Stack, Queue, and LinkedList implementations
+Undo/Redo, Hint System, Scoring, Auto-Move, and Timer
+🔹 Question Paper Generator
+Dynamic question paper generation from question banks
+Randomized paper creation logic
+Responsive UI using Vanilla JavaScript
+🔹 Forks & Fiction – Restaurant Website
+Responsive restaurant website
+Table booking functionality
+Team collaboration using Git and GitHub
 
+---
+## 🏆 Core Competencies
+Backend Development
+REST API Development
+Database Design
+Object-Oriented Programming
+Data Structures & Algorithms
+Distributed Systems
+MVC Architecture
+System Design Fundamentals
 ---
 
 ## 🌱 Currently Learning
-- 🔹 Azure Cloud Services for cloud deployments  
-- 🔹 React to complement my Angular skills  
-- 🔹 Microservices Architecture with .NET Core  
-- 🔹 Advanced SQL Server optimization techniques  
-
+🔹 Advanced Backend Development
+🔹 System Design Fundamentals
+🔹 PostgreSQL Optimization
+🔹 Scalable API Development
+🔹 Modern Software Architecture
 ---
 
 ## 📫 Contact Me
